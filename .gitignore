@@ -1,3 +1,4 @@
 env
 .vscode
 img
+.ipynb_checkpoints
