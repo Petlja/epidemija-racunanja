@@ -1,4 +1,7 @@
-env
+.env
 .vscode
 img
 .ipynb_checkpoints
+START_IDLE.lnk
+START_JUPYTER.BAT
+
